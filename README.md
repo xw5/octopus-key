@@ -67,7 +67,7 @@ src/main.pas            设置窗口 + 托盘图标
 
 ### 许可证
 
-待定 —— 发布前请选定(如 MIT 或 GPL-3.0)。
+本项目基于 [MIT License](LICENSE) 开源发布。
 
 ### 致谢
 
@@ -138,7 +138,7 @@ src/main.pas            settings window + tray icon
 
 ### License
 
-TBD — pick one before publishing (e.g. MIT or GPL-3.0).
+Released under the [MIT License](LICENSE).
 
 ### Acknowledgements
 
