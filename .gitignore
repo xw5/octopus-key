@@ -1,0 +1,20 @@
+# Lazarus / FPC build artifacts
+lib/
+bin/
+*.o
+*.ppu
+*.compiled
+*.exe
+*.lps
+*.rsj
+backup/
+
+# IDE / editor junk
+*.dof
+*.cfg
+*.identcache
+*.projdata
+*.local
+.vscode/
+.idea/
+.zcode/
